@@ -1,6 +1,6 @@
 exan Websammler – Windows Test Downloads
 
-Free, portable website archiving and offline browsing for Windows.**
+Free, portable website archiving and offline browsing for Windows.
 
 exan Websammler allows you to save accessible websites and linked resources locally, browse archived pages offline, and organize downloaded content.
 
